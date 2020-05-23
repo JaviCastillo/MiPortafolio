@@ -1,3 +1,5 @@
+/* Javier Alejandro Castillo Oñatt */
+
 body{
     font-family: 'Archivo Black', sans-serif;
 }
@@ -6,9 +8,6 @@ p{
     font-family: 'Muli', sans-serif;
 }
 
-nav{
-    height: 60px;
-}
 
 header{
     background-image: url('../img/bg_yo2.jpg');
